@@ -1,0 +1,24 @@
+agent.py 
+arial.ttf
+helper.py
+model.py
+
+are very important to start please look in the ppt presentation is all things discribe 
+
+i hope you liked
+
+
+
+Snuk = Snake for the name that all Person nows
+
+snuk3-game.py = backups for original
+snuk4-game.py = bakups for creation of snuk5statitic-color-game.py and snuckrainbow-game.py
+
+snake_game_human.py is a faster version to self play 
+
+
+but i hope you liket all my crazy rainbow snake
+
+
+
+
